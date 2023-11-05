@@ -1,6 +1,7 @@
 "use client"
 import CountButton from "./CountButton"
 import ProductList from "./getApi"
+import "./style.css"
 
 export default function Page() {
     return (

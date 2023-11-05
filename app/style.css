@@ -1,0 +1,26 @@
+/* styles.css */
+
+body {
+    background-color:darkslateblue; /* Dark background color (e.g., dark gray) */
+    color: white; /* White text color */
+  }
+  
+  /* Table styles */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid white; /* White border for table elements */
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+
+  tr {
+    background-color: purple;
+  }
