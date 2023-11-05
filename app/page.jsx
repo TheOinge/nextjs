@@ -6,7 +6,6 @@ export default function Page() {
     return (
     <div>
       <CountButton />
-      <CountButton />
       <hr/>
       <a href="https://github.com/TheOinge/nextjs">My react page's github</a>
       <hr />
